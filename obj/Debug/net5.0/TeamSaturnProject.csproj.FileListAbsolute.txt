@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\bin\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.genruntimeconfig.cache

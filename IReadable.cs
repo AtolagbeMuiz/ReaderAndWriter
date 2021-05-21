@@ -1,4 +1,7 @@
-public interface IReadable
+namespace TeamSaturnProject
 {
-    void Read(string path);
+    public interface IReadable
+    {
+        void Read(string path);
+    }
 }

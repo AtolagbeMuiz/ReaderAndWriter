@@ -1,10 +1,12 @@
 using System;
 using System.IO;
 
- public class EnsureFolderOrFileExists
+namespace TeamSaturnProject
+{
+    public class EnsureFolderOrFileExists
     {
 
-        public static string EnsureFolderExists(string folderPath)
+        public static string CreateFolder(string folderPath)
         {
             // ... Set to folder path we must ensure exists
             try
@@ -13,7 +15,6 @@ using System.IO;
                 if (!Directory.Exists(folderPath))
                 {
                     Directory.CreateDirectory(folderPath);
-
                 }
                 else
                 {
@@ -21,12 +22,11 @@ using System.IO;
 
                     Console.WriteLine("Enter Another Folder Name You wanted to Create:");
                     string nameOfFolder = Console.ReadLine();
-                   
-                    folderPath = @"C:\" + nameOfFolder;
-                    EnsureFolderExists(folderPath);
+                    string validatedNameOfFolder = Validation.ValidateAllStringInput(nameOfFolder);
 
+                    folderPath =  @"C:\Users\KLITEGROUP\Desktop\" + validatedNameOfFolder;
+                    CreateFolder(folderPath);
                 }
-
             }
             catch (Exception e)
             {
@@ -34,8 +34,8 @@ using System.IO;
             }
             return folderPath;
         }
-
-        public static string EnsureFileExists(string filePath)
+        
+        public static string CreateFile(string filePath)
         {
             try
             {
@@ -54,5 +54,5 @@ using System.IO;
             }
             return filePath;
         }
-
     }
+}

@@ -1,4 +1,7 @@
-public interface IWritable
+namespace TeamSaturnProject
 {
-    void Write(string path);
+    public interface IWritable
+    {
+        void Write(string path);
+    }
 }

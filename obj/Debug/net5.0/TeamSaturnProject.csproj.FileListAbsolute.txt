@@ -14,3 +14,35 @@ C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\T
 C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\ref\TeamSaturnProject.dll
 C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.pdb
 C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\TeamSaturnProject\obj\Debug\net5.0\TeamSaturnProject.genruntimeconfig.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.exe
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.deps.json
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.json
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.dev.json
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.csprojAssemblyReference.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfoInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfo.cs
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.csproj.CoreCompileInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.genruntimeconfig.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.exe
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.deps.json
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.json
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.runtimeconfig.dev.json
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\bin\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.csprojAssemblyReference.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfoInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.AssemblyInfo.cs
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.csproj.CoreCompileInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\ref\TeamSaturnProject.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\Team-Saturn\ReaderAndWriter\obj\Debug\net5.0\TeamSaturnProject.genruntimeconfig.cache

@@ -22,17 +22,17 @@ namespace TeamSaturnProject
                 {
                     string numberOfYears = "";
 
-                    Console.Write($"Name of Number {i} Country: ");
+                    Console.WriteLine($"Name of Number {i} Country: ");
                     string countryName = Console.ReadLine();
                     string validatedCountryName = Validation.ValidateAllStringInput(countryName);
 
-                    Console.Write("Number of World Cups Won: ");
+                    Console.WriteLine("Number of World Cups Won: ");
                     string numberOfCup = Console.ReadLine();
                     int ValidatedNumberOfCup = Validation.ValidateAllIntInput(numberOfCup);
 
                     for (int j = 1; j <= ValidatedNumberOfCup; j++)
                     {
-                        Console.Write($"Year Won the Number {j} Cup: ");
+                        Console.WriteLine($"Year Won the Number {j} Cup: ");
                         string year = Console.ReadLine();
                         string validatedYear = Validation.ValidateYearInput(year);
 

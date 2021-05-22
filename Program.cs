@@ -15,7 +15,7 @@ namespace TeamSaturnProject
             string validatedNameOfFolder = Validation.ValidateAllStringInput(nameOfFolder);
 
             // string folderPath = @"C:\" + nameOfFolder;
-            string folderPath = @"C:\Users\KLITEGROUP\Desktop\" + validatedNameOfFolder;
+            string folderPath = @"C:\" + validatedNameOfFolder;
 
             // call a Method
             var returnedFolderPath = EnsureFolderOrFileExists.CreateFolder(folderPath);

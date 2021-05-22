@@ -24,7 +24,7 @@ namespace TeamSaturnProject
                     string nameOfFolder = Console.ReadLine();
                     string validatedNameOfFolder = Validation.ValidateAllStringInput(nameOfFolder);
 
-                    folderPath =  @"C:\Users\KLITEGROUP\Desktop\" + validatedNameOfFolder;
+                    folderPath =  @"C:\" + validatedNameOfFolder;
                     CreateFolder(folderPath);
                 }
             }

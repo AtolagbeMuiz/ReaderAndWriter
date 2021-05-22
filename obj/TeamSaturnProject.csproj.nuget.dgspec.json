@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KLITEGROUP\\Desktop\\SBSC\\Team-Saturn\\ReaderAndWriter\\TeamSaturnProject.csproj": {}
+    "C:\\Users\\ATOLAGBE MUIZ_O\\Desktop\\C# Classes\\TeamSaturnProject\\TeamSaturnProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KLITEGROUP\\Desktop\\SBSC\\Team-Saturn\\ReaderAndWriter\\TeamSaturnProject.csproj": {
+    "C:\\Users\\ATOLAGBE MUIZ_O\\Desktop\\C# Classes\\TeamSaturnProject\\TeamSaturnProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KLITEGROUP\\Desktop\\SBSC\\Team-Saturn\\ReaderAndWriter\\TeamSaturnProject.csproj",
+        "projectUniqueName": "C:\\Users\\ATOLAGBE MUIZ_O\\Desktop\\C# Classes\\TeamSaturnProject\\TeamSaturnProject.csproj",
         "projectName": "TeamSaturnProject",
-        "projectPath": "C:\\Users\\KLITEGROUP\\Desktop\\SBSC\\Team-Saturn\\ReaderAndWriter\\TeamSaturnProject.csproj",
-        "packagesPath": "C:\\Users\\KLITEGROUP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KLITEGROUP\\Desktop\\SBSC\\Team-Saturn\\ReaderAndWriter\\obj\\",
+        "projectPath": "C:\\Users\\ATOLAGBE MUIZ_O\\Desktop\\C# Classes\\TeamSaturnProject\\TeamSaturnProject.csproj",
+        "packagesPath": "C:\\Users\\ATOLAGBE MUIZ_O\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ATOLAGBE MUIZ_O\\Desktop\\C# Classes\\TeamSaturnProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\KLITEGROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ATOLAGBE MUIZ_O\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -54,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
